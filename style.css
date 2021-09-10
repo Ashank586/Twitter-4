@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(60deg,red,lightblue)
+}
+#image{
+    height: 625px;
+    width: 683px;
+    position:absolute;
+    left:0;
+    top:0;
+}
+#user_name{
+    margin-left: 185px;
+    margin-top: 225px;
+    height:45px;
+    width:150px;
+}
+#password{
+    margin-left: 185px;
+    height: 45px;
+    width: 200px;
+}
